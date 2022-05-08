@@ -1,3 +1,4 @@
+[Portfolio - Notes from Week 2.docx](https://github.com/ThomasKurkowski/Eportfolio/files/8646484/Portfolio.-.Notes.from.Week.2.docx)
 # Eportfolio
 Evidence is provided for the following objectives:
 1. Explain communication concepts and strategies.
