@@ -1,3 +1,5 @@
+[Week6Activity.docx](https://github.com/ThomasKurkowski/Eportfolio/files/8646765/Week6Activity.docx)
+[Week4Activity.docx](https://github.com/ThomasKurkowski/Eportfolio/files/8646766/Week4Activity.docx)
 [Portfolio - Notes from Week 2.docx](https://github.com/ThomasKurkowski/Eportfolio/files/8646484/Portfolio.-.Notes.from.Week.2.docx)
 # Eportfolio
 Evidence is provided for the following objectives:
@@ -12,4 +14,4 @@ Evidence is provided for the following objectives:
   - I have attached an email chain with my tutor from my Programming Fundamentals course.
 5. Define and demonstrate conflict management and resolution strategies.
   - The proper use of conflict management strategies were demonstrated within Week 4's group assignment.
-Presentation part2.mp4
+
