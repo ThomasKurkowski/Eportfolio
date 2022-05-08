@@ -12,3 +12,4 @@ Evidence is provided for the following objectives:
   - I have attached an email chain with my tutor from my Programming Fundamentals course.
 5. Define and demonstrate conflict management and resolution strategies.
   - The proper use of conflict management strategies were demonstrated within Week 4's group assignment.
+Presentation part2.mp4
