@@ -8,7 +8,7 @@ Evidence is provided for the following objectives:
 3. Work effectively as part of a team.
   - I completed the group writing activity efficiently in the week 6 group activities as part of the team. As far as I am aware I had no complaints directed at me from other members of the team. [Week6Activity.docx](https://github.com/ThomasKurkowski/Eportfolio/files/8646765/Week6Activity.docx)
 4. Communicate effectively in a professional context.
-  - I will attach an email chain with a professional contact that demonstrates I can write a professional email (pending permission).
+  - I will attach an email chain with a professional contact that demonstrates I can write a professional email (contact did not reply for confirmation of permission).
 5. Define and demonstrate conflict management and resolution strategies.
   - The proper use of conflict management strategies were demonstrated within Week 4's group assignment. [Week4Activity.docx](https://github.com/ThomasKurkowski/Eportfolio/files/8646766/Week4Activity.docx)
 
